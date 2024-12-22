@@ -1,12 +1,14 @@
 ***Veterinary Clinic System***
 
 **Overview**
+
 The Veterinary Clinic System is a C-based application designed to manage patient records for a veterinary clinic. The system provides functionalities for adding, editing, searching, 
 and removing patient records, as well as displaying patient information in different formats. The system manages pet records, including pet details and their owners' contact information.
 This system is developed with the intention to help clinics manage their patient records in an organized and efficient way. The project utilizes C programming and its standard library 
 to handle the core functionalities.
 
 **Features**
+
 Add New Patient: Add a pet with details like name, patient number, and owner contact.
 Edit Patient: Modify existing patient details.
 Search Patient: Find patients by patient number or phone number.
@@ -15,12 +17,14 @@ Display All Patients: View all records.
 Data Validation: Ensures correct phone numbers and patient details.
 
 **Technologies Used**
+
 Programming Language: C
 Data Structures: Arrays, Structs
 File Handling: File I/O for saving/loading data
 Compiler: GCC (GNU Compiler Collection)
 
 **How to Set up and Run this system:**
+
 1.Clone the repository:
 git clone https://github.com/aayush7407/veterinary-clinic-system.git
 
@@ -33,11 +37,11 @@ gcc -o clinic_system clinic.c core.c
 4.Run the program:
 ./clinic_system
 
-**Usage**
+**Usage:**
 After starting the program, use the menu to: Add, edit, or remove patient records, Search for patients by number or phone and Display all patient records.
 
 
-**What I Learned**
+**What I Learned:**
 From working on this project, I learned:
 
 1. Data Management: How to manage structured data in C using arrays and structs to represent patient and phone records.
