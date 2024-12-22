@@ -10,25 +10,17 @@ to handle the core functionalities.
 **Features**
 
 Add New Patient: Add a pet with details like name, patient number, and owner contact.
-
 Edit Patient: Modify existing patient details.
-
 Search Patient: Find patients by patient number or phone number.
-
 Remove Patient: Delete patient records.
-
 Display All Patients: View all records.
-
 Data Validation: Ensures correct phone numbers and patient details.
 
 **Technologies Used**
 
-Programming Language: C
-
+Programming Language: C 
 Data Structures: Arrays, Structs
-
 File Handling: File I/O for saving/loading data
-
 Compiler: GCC (GNU Compiler Collection)
 
 **How to Set up and Run this system:**
