@@ -18,9 +18,9 @@ Data Validation: Ensures correct phone numbers and patient details.
 
 **Technologies Used**
 
-Programming Language: C 
-Data Structures: Arrays, Structs
-File Handling: File I/O for saving/loading data
+Programming Language: C, 
+Data Structures: Arrays, Structs, 
+File Handling: File I/O for saving/loading data,
 Compiler: GCC (GNU Compiler Collection)
 
 **How to Set up and Run this system:**
