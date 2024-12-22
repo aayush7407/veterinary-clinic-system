@@ -25,16 +25,13 @@ to handle the core functionalities.
 
 **How to Set up and Run this system:**
 
-1.Clone the repository:
+1. Clone the repository:
 git clone https://github.com/aayush7407/veterinary-clinic-system.git
-
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 cd veterinary-clinic-system
-
-3.Compile the project:
+3. Compile the project:
 gcc -o clinic_system clinic.c core.c
-
-4.Run the program:
+4. Run the program:
 ./clinic_system
 
 **Usage:**
