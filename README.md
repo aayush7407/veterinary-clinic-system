@@ -1,4 +1,5 @@
 ***Veterinary Clinic System***
+
 **Overview**
 The Veterinary Clinic System is a C-based application designed to manage patient records for a veterinary clinic. The system provides functionalities for adding, editing, searching, 
 and removing patient records, as well as displaying patient information in different formats. The system manages pet records, including pet details and their owners' contact information.
